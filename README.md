@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Revech/ReveChahine/blob/main/Blue%20Gaming%20Facebook%20Cover%20(1).png#:~:text=t-,Blue%20Gaming%20Facebook%20Cover%20(1).png,-README.md)
 <h1 align="center">Welcome 👋, It's Reve Chahine</h1>
 <h3 align="center">Web Developer and AI/ML Engineer</h3>
 
@@ -8,7 +8,7 @@
 
 
 
-- ⚡ MY QUICK STORY  <br>   **Engaged in numerous impactful volunteering initiatives, I have consistently recognized the profound significance of community building. During my university years, I actively spearheaded various volunteering programs, fostering connections and providing invaluable support to individuals navigating their respective paths. My role extended beyond local endeavors as I orchestrated international events, seamlessly connecting diverse networks and amplifying the impact of our collective efforts. In essence, my journey has been a harmonious blend of professionalism and enthusiasm, dedicated to the upliftment of communities through strategic networking and global collaboration.**
+- ⚡ MY QUICK STORY  <br>   **Computer Engineer Grad -Engaged in numerous impactful volunteering initiatives, I have consistently recognized the profound significance of community building. During my university years, I actively spearheaded various volunteering programs, fostering connections and providing invaluable support to individuals navigating their respective paths. My role extended beyond local endeavors as I orchestrated international events, seamlessly connecting diverse networks and amplifying the impact of our collective efforts. In essence, my journey has been a harmonious blend of professionalism and enthusiasm, dedicated to the upliftment of communities through strategic networking and global collaboration.**
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
 
